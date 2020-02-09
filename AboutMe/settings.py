@@ -124,4 +124,4 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/images/'
 
-STATIC_ROOT = 'static'
+STATIC_ROOT = '/static/'
