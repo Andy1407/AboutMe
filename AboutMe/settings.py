@@ -124,4 +124,4 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/images/'
 
-STATIC_ROOT = '../cutaway/static/'
+STATIC_ROOT = '../cutaway/static/cutaway/'
